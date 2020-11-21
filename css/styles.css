@@ -1,0 +1,23 @@
+* {
+  font-family: Georgia;
+}
+
+.main {
+  background-color: rgb(238, 237, 235);
+}
+
+h1 {
+  font-size: calc(3.6vw + 1rem);
+}
+
+.lead {
+  font-size: calc(.6vw + 1rem);
+}
+
+p {
+  font-size: calc(.24vw + 1rem);
+}
+
+nav {
+  height: 20px;
+}
