@@ -36,3 +36,9 @@ p {
   text-align: center;
   margin: 0px 5px 0px 5px;
 }
+
+.quote {
+  font-size: calc(1.44vw + 1rem);
+  margin: 3rem 0 3rem;
+  margin-left: calc(1.44vw + 1rem);;
+}
