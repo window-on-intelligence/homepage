@@ -38,6 +38,8 @@ p {
 }
 
 .quote {
-  font-size: calc(1.44vw + 1rem);
+  font-size: calc(1.3vw + 1rem);
   margin: 3rem 0 3rem;
+  border-left: 5px solid #BDBDBD;
+  padding-left: 1rem;
 }
